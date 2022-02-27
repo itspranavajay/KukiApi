@@ -19,7 +19,7 @@ app.get('/invite', (req, res) => {
 app.get("/", (req, res) => {
     res.status(200).json({
         "Kuki": "kukiapi.xyz/api/botname/ownername/message=hi",
-        "Kuki Discord Bot Invite": "https://kukiapi.xyz/invite",
+     
     
 
     });
