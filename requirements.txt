@@ -1,0 +1,9 @@
+pymongo
+requests
+dnspython
+tgcrypto==1.2.2
+pyrogram==1.4.16
+lxml==4.6.2
+requests_html
+fastapi==0.63.0
+uvicorn
