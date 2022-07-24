@@ -1,6 +1,6 @@
 const express = require('express') // Import NPM Package
 const app = express();
-const bot = require("./kyuki.js");
+const bot = require("./Kuki.js");
 const cors = require('cors')
 const NodeCache = require('node-cache')
 const fetch = require('node-fetch')
